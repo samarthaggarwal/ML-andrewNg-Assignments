@@ -1,0 +1,20 @@
+week1:
+1. diff bw pinv and inv - pseudo inversion
+
+post for different learning rates:
+https://www.coursera.org/learn/machine-learning/discussions/weeks/2/threads/pA-5bdqMEeeerg6JA-5x3A
+
+week 3:
+https://www.coursera.org/learn/machine-learning/discussions/weeks/3/threads/7ipeD-AyEeeelw5rF-0c1g
+
+https://www.coursera.org/learn/machine-learning/discussions/weeks/3/threads/nuir1eA7Eeek4RKb_QR-0g
+
+week4:
+1. displayData code??
+2. fmincg code?
+
+week5:
+Q1) Why is delta equal to derivative of cost wrt z values? Mathematical proof?
+Q2) Where does the term sqrt(6/L_out + L_in) come from and why is it a good start for random initialization? Moreover, how do we judge whether a particular initialization is good or not?
+Q3) Can someone please explain me the code of ComputeNumericalGradient() and debugInitialWeights() ?
+https://www.coursera.org/learn/machine-learning/programming/AiHgN/neural-network-learning/discussions/threads/yForLerXEeeVIQpX8CEJEg
